@@ -1,6 +1,6 @@
 # JVM学习笔记汇总
 
-##深入理解java虚拟机笔记
+## 深入理解java虚拟机笔记
 
   * [1. java内存区域](https://github.com/xiedacon/notes-JVM/blob/master/chapters/1.java%E5%86%85%E5%AD%98%E5%8C%BA%E5%9F%9F.md)
   * [2. 垃圾收集器与内存分配策略](https://github.com/xiedacon/notes-JVM/blob/master/chapters/2.%E5%9E%83%E5%9C%BE%E6%94%B6%E9%9B%86%E5%99%A8%E4%B8%8E%E5%86%85%E5%AD%98%E5%88%86%E9%85%8D%E7%AD%96%E7%95%A5.md)
@@ -15,24 +15,23 @@
   * [11. java内存模型与线程](https://github.com/xiedacon/notes-JVM/blob/master/chapters/11.java%E5%86%85%E5%AD%98%E6%A8%A1%E5%9E%8B%E4%B8%8E%E7%BA%BF%E7%A8%8B.md)
   * [12. 线程安全与锁优化](https://github.com/xiedacon/notes-JVM/blob/master/chapters/12.%E7%BA%BF%E7%A8%8B%E5%AE%89%E5%85%A8%E4%B8%8E%E9%94%81%E4%BC%98%E5%8C%96.md)
 
-##资源链接
+## 资源链接
 
-####JVM规范
+#### JVM规范
 
  * [The Java® Virtual Machine Specification](https://docs.oracle.com/javase/specs/jvms/se8/html/index.html)
 
-####垃圾收集器
+#### 垃圾收集器
  * [G1垃圾收集器入门](http://blog.csdn.net/renfufei/article/details/41897113)
  * [深入理解 Java G1 垃圾收集器](http://blog.jobbole.com/109170/)
 
-####64位与32位java虚拟机
+#### 64位与32位java虚拟机
 
  * [Does Java 64 bit perform better than the 32-bit version?](http://stackoverflow.com/questions/589057/does-java-64-bit-perform-better-than-the-32-bit-version)
  * [Frequently Asked Questions About the Java HotSpot VM](http://www.oracle.com/technetwork/java/hotspotfaq-138619.html#64bit_performance)
  * [基于x86和JVM浅谈32bit与64bit的区别](http://www.cnblogs.com/ggjucheng/archive/2011/12/15/2288919.html)
  * [Difference between 32-bit java vs. 64-bit java](http://geekonjava.blogspot.in/2015/07/difference-between-32-bit-java-vs-64.html)
 
-####虚拟机指令集
+#### 虚拟机指令集
 
- * [Java Virtual Machine
-Online Instruction Reference](http://cs.au.dk/~mis/dOvs/jvmspec/ref-Java.html)
+ * [Java Virtual Machine Online Instruction Reference](http://cs.au.dk/~mis/dOvs/jvmspec/ref-Java.html)
